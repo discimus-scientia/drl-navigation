@@ -81,6 +81,3 @@ To solve the environment, the agent must get
 an average score of +13 over 100 consecutive episodes.
 
 
-## More Details
-
-For more details on how we solved the environment, see the `Navigation.ipynb` and `Report.md` files.
